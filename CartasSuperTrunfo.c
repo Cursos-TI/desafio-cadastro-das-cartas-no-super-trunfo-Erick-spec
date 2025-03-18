@@ -8,6 +8,10 @@ int main() {
     float area1;
     float pib1;
     int pontosTuristicos;
+
+    printf("Informe os dados da carta 1: \n");
+    printf("Estado (A-H): ");
+    scanf("%c", &estado1);
     
    
     
