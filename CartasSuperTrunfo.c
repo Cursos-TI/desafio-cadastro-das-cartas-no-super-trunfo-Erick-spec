@@ -12,6 +12,10 @@ int main() {
     printf("Informe os dados da carta 1: \n");
     printf("Estado (A-H): ");
     scanf("%c", &estado1);
+    printf("Código da carta: ");
+    scanf("%s", codigo1);
+    printf("Nome da cidade:");
+    scanf("%49[^\n]", nomeCidade1);
     
    
     
